@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # skillsync_ai
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# project
+AI-Powered Career &amp; Skill Development App
+>>>>>>> 80287c3bb43864a6412cb6418836c8aa20795c59
