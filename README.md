@@ -1,22 +1,85 @@
-<<<<<<< HEAD
-# skillsync_ai
+# 🚀 SkillSync AI
 
-A new Flutter project.
+**AI-Powered Career & Skill Development App**
 
-## Getting Started
+SkillSync AI ek Flutter-based mobile application hai jo students ko unke career path dhoondhne, skill gaps identify karne, aur personalized learning roadmap banane mein madad karta hai — sab kuch AI ki madad se.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 🔐 Authentication
+- Email/Password Signup & Login
+- Google Sign-In
+- Auto-login (Firebase Auth)
+- Forgot Password support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# project
-AI-Powered Career &amp; Skill Development App
->>>>>>> 80287c3bb43864a6412cb6418836c8aa20795c59
+### 🏠 Home Dashboard
+- Personalized greeting with user's name
+- Career Goal card
+- Quick access to AI tools
+- Progress tracking
+
+### 🎯 Career Assessment
+- User apni education, interests, aur skills select karta hai
+- Career goal choose karta hai
+- Data dynamically next screen par pass hota hai
+
+### 🤖 AI Career Recommendations
+- Real-time AI logic jo user ke skills aur interests ke hisaab se match percentage calculate karta hai
+- Top 3 best career matches
+- Dynamic AI insights
+
+### 📊 Skill Gap Analysis
+- User ki current skills vs required skills
+- Missing skills with priority (High/Medium)
+- Progress percentage
+- AI recommendation
+
+### 📚 Learning Roadmap
+- Har career ke liye alag 3-month plan
+- Month-wise topics
+- Dynamic content based on career selection
+
+### 📝 AI Resume Builder
+- User apni details fill karta hai
+- AI professional summary generate karta hai
+- Beautiful resume preview
+- Firestore mein save hota hai
+
+### 👤 Profile Management
+- Dynamic data from Firebase
+- Edit profile functionality
+- Skills, interests, education, CGPA
+
+### 📈 Progress Tracking
+- Real-time progress calculation
+- Skill-wise progress bars
+- Career readiness percentage
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Flutter** | Cross-platform mobile development |
+| **Dart** | Programming language |
+| **Firebase Auth** | User authentication |
+| **Cloud Firestore** | Real-time database |
+| **Google Sign-In** | Social login |
+| **Shared Preferences** | Local storage for onboarding |
+
+---
+
+## 📱 Screenshots
+
+*(Yahan aap apni app ke screenshots add kar sakti hain — Home, Assessment, Recommendations, Profile)*
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Manahil-Codes/project.git
