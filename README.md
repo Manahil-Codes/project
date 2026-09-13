@@ -72,12 +72,6 @@ SkillSync AI ek Flutter-based mobile application hai jo students ko unke career 
 
 ---
 
-## 📱 Screenshots
-
-*(Yahan aap apni app ke screenshots add kar sakti hain — Home, Assessment, Recommendations, Profile)*
-
----
-
 ## 🚀 How to Run
 
 1. **Clone the repository:**
